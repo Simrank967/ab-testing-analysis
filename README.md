@@ -267,13 +267,6 @@ python3 main.py
 
 ---
 
-# 👤 Author
 
-**Simran Kaur**
-
-Electronics and Computer Engineering  
-Thapar Institute of Engineering and Technology
-
----
 
 
